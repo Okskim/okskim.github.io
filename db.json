@@ -1,0 +1,283 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "oksana",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "adresBefore": "8линия",
+      "adressAfter": "8линия",
+      "child": "on",
+      "id": 33
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 41
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 42
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "Оксана Ким",
+      "phone": "89650170627",
+      "email": "okskim07@gmail.com",
+      "adresBefore": "8линия",
+      "adressAfter": "8линия",
+      "child": "on",
+      "id": 44
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
